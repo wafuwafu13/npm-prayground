@@ -10,6 +10,7 @@
   "author": "wafuwafu13 <mariobaske@i.softbank.jp> (https://wafuwafu13.hateblo.jp/entry/wafuwafuportfolio)",
   "license": "ISC",
   "dependencies": {
+    "vm": "^0.1.0",
     "yargs": "^17.1.1"
   }
 }
